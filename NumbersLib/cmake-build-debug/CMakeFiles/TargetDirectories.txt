@@ -1,0 +1,3 @@
+/home/irtualo/CLionProjects/NumbersLib/cmake-build-debug/CMakeFiles/NumbersLib.dir
+/home/irtualo/CLionProjects/NumbersLib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/irtualo/CLionProjects/NumbersLib/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v5
+46	61	1663679127161649117	libNumbersLib.a	a2741e01762676c0
+0	46	1663679127145648973	CMakeFiles/NumbersLib.dir/number.cpp.o	52d097cdf773b9a0
+0	50	1663682835067597599	CMakeFiles/NumbersLib.dir/number.cpp.o	1a3d6c53edc996e
+51	63	1663682835091597835	libNumbersLib.a	a2741e01762676c0
